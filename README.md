@@ -33,10 +33,5 @@ I believe in consistent improvement, clean code practices, and continuous learni
 - Email: uppusathwik1354@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sathwik-uppu-674983259/
 
----
 
-## ⚡ About Me
-- Interested in Web Development & UI/UX and backend roles
-- Currently learning advanced frontend & real-world projects
----
-https://camo.githubusercontent.com/0a045e43d7d86c18f46a98c0311b594c35680e5902870b2ffd8f5b98a49d5e82/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d41736877696e6936267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565
+
