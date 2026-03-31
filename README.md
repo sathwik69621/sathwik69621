@@ -13,8 +13,9 @@
 ---
 
 ## 🔥 Projects
-- Family Tree Application with authentication
-- car rental system 
+- Family Tree Application with authentication | live link: https://family-tree-web-l7yh.onrender.com/
+- car rental system | live link: https://car-rental-sathwikuppu.infinityfreeapp.com/auth/login.php
+- personal portfolio website | live link: https://sathwik69621.github.io/
 - machine events backend system with 4+ rest apis
 
 ---
